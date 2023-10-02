@@ -1,0 +1,15 @@
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.csproj.AssemblyReference.cache
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.AssemblyInfoInputs.cache
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.AssemblyInfo.cs
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.csproj.CoreCompileInputs.cache
+/home/vtarelov/MIEM/dining-philosophers/Monitor/bin/Debug/net7.0/Monitor
+/home/vtarelov/MIEM/dining-philosophers/Monitor/bin/Debug/net7.0/Monitor.deps.json
+/home/vtarelov/MIEM/dining-philosophers/Monitor/bin/Debug/net7.0/Monitor.runtimeconfig.json
+/home/vtarelov/MIEM/dining-philosophers/Monitor/bin/Debug/net7.0/Monitor.dll
+/home/vtarelov/MIEM/dining-philosophers/Monitor/bin/Debug/net7.0/Monitor.pdb
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.dll
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/refint/Monitor.dll
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.pdb
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/Monitor.genruntimeconfig.cache
+/home/vtarelov/MIEM/dining-philosophers/Monitor/obj/Debug/net7.0/ref/Monitor.dll
